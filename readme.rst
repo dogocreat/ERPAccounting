@@ -68,3 +68,13 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+=======================================================================
+php.ini
+date.timezone ="Asia/Taipei"
+
+httpd.conf
+AllowOverride All
+
+Listen Change to 8888
